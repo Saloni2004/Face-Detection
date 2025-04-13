@@ -1,6 +1,6 @@
 streamlit
 facenet-pytorch
-Pillow
-opencv-python
-numpy
 torch
+Pillow
+numpy
+opencv-python
