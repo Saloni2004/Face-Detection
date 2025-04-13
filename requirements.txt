@@ -3,4 +3,5 @@ facenet-pytorch
 torch
 Pillow
 numpy
-opencv-python
+opencv-python-headless
+
